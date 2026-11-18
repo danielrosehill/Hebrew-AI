@@ -10,7 +10,7 @@ This repo is the hub: it links out to sub-indexes, each with its own SCOPE.md.
 - Notable multilingual models and datasets with real Hebrew support, kept in separate subsections from the Hebrew-specialist ones.
 - Hebrew-language datasets: speech and audio, sentence, text corpora, instruction, parallel text, task datasets ([Hebrew-Datasets](https://github.com/danielrosehill/Hebrew-Datasets)).
 - People and organisations doing Hebrew-language AI work, wherever they are based ([Hebrew-AI-Community](https://github.com/danielrosehill/Hebrew-AI-Community)).
-- Benchmarks, leaderboards and evaluations of Hebrew-language AI.
+- Benchmarks, leaderboards and evaluations of Hebrew-language AI ([Hebrew-AI-Benchmarks](https://github.com/danielrosehill/Hebrew-AI-Benchmarks)).
 - English-Hebrew code-switching (English speech or text with Hebrew words), as a Hebrew-language AI problem.
 
 ## Out of scope

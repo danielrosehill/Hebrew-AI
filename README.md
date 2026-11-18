@@ -10,6 +10,7 @@ An index of the people, organisations, models and datasets improving support for
 |-------|----------------|
 | [Hebrew-AI-Models](https://github.com/danielrosehill/Hebrew-AI-Models) | Models for Hebrew: LLMs, speech recognition, text-to-speech, OCR, NLP, embeddings, translation. Hebrew-specialist models kept apart from multilingual models that support Hebrew. |
 | [Hebrew-Datasets](https://github.com/danielrosehill/Hebrew-Datasets) | Hebrew-language datasets: speech and audio, sentence datasets, text corpora, translation, NLP tasks. |
+| [Hebrew-AI-Benchmarks](https://github.com/danielrosehill/Hebrew-AI-Benchmarks) | Benchmarks, evaluation sets and leaderboards for Hebrew: LLMs, speech recognition, TTS, OCR, retrieval, translation. |
 | [Hebrew-AI-Community](https://github.com/danielrosehill/Hebrew-AI-Community) | People and organisations doing Hebrew-language AI work, in Israel and elsewhere. |
 
 ## Narrower lists
