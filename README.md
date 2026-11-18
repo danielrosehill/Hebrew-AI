@@ -82,6 +82,14 @@ People and organisations doing Hebrew-language AI work, in Israel and elsewhere.
 
 ---
 
+### Hebrew-AI-Evaluations
+
+My own evaluations of AI on Hebrew, by task: text-to-speech, speech recognition, image generation.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Evaluations)
+
+---
+
 ### Hebrew-AI-Models
 
 Models for Hebrew: LLMs, speech recognition, text-to-speech, OCR, NLP, embeddings and translation. Hebrew-specialist models are kept apart from multilingual models that support Hebrew.
